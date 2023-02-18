@@ -4,7 +4,7 @@
   <img width="360" height="600" src="/images/maxm_examples.png">
 </p>
 
-We introduce MaXM, test-only multi-lingual visual question answering datasets in 7 diverse languages: English (en), French (fr), Hindi (hi), Hebrew (iw), Romanian (ro), Thai (th), and Chinese (zh).
+We introduce MaXM, a test-only multi-lingual visual question answering benchmark in 7 diverse languages: English (en), French (fr), Hindi (hi), Hebrew (iw), Romanian (ro), Thai (th), and Chinese (zh).
 The datasets are based on the images and the captions from the [Crossmodal-3600](https://google.github.io/crossmodal-3600/) dataset (XM3600).
 Check our [paper](https://arxiv.org/abs/2209.05401) for further details.
 

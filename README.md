@@ -11,7 +11,7 @@ Check our [paper](https://arxiv.org/abs/2209.05401) for further details.
 Our approach to data generation is similar to [VQ^2A](https://arxiv.org/abs/2205.01883) used to generate [MAVERICS](https://github.com/google-research-datasets/maverics).
 
 <p align="center">
-  <img width="367" height=200" src="/images/maxm_approach.png">
+  <img width="458" height=250" src="/images/maxm_approach.png">
 </p>
 
 ## Download

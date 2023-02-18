@@ -1,16 +1,17 @@
 # MaXM
 
 <p align="center">
-  <img width="680.25" height="504" src="/images/maxm_examples.png">
+  <img width="600" height="1000" src="/images/maxm_examples.png">
 </p>
 
 We introduce MaXM, test-only multi-lingual visual question answering datasets in 7 diverse languages: English (en), French (fr), Hindi (hi), Hebrew (iw), Romanian (ro), Thai (th), and Chinese (zh).
 The datasets are based on the images and the captions from the [Crossmodal-3600](https://google.github.io/crossmodal-3600/) dataset (XM3600).
 Check our [paper](https://arxiv.org/abs/2209.05401) for further details.
 
-Our approach to data generation is similar to [VQ^2A](https://arxiv.org/abs/2205.01883) used to generate [MAVERICS](https://github.com/google-research-datasets/maverics). 
+Our approach to data generation is similar to [VQ^2A](https://arxiv.org/abs/2205.01883) used to generate [MAVERICS](https://github.com/google-research-datasets/maverics).
+
 <p align="center">
-  <img width="576" height="324" src="/images/maxm_approach.gif">
+  <img width="733" height=400" src="/images/maxm_approach.gif">
 </p>
 
 ## Download

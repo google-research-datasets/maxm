@@ -8,6 +8,7 @@ We introduce MaXM, test-only multi-lingual visual question answering datasets in
 The datasets are based on the images and the captions from the [Crossmodal-3600](https://google.github.io/crossmodal-3600/) dataset (XM3600).
 Check our [paper](https://arxiv.org/abs/2209.05401) for further details.
 
+Our approach to data generation is similar to [VQ^2A](https://arxiv.org/abs/2205.01883) used to generate [MAVERICS](https://github.com/google-research-datasets/maverics). 
 <p align="center">
   <img width="576" height="324" src="/images/maxm_approach.gif">
 </p>

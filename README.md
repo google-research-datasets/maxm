@@ -15,7 +15,7 @@ Our approach to data generation is similar to [VQ^2A](https://arxiv.org/abs/2205
 
 ## Download
 
-[MaXM v1 (Feb 18, 2023)](https://storage.googleapis.com/maxm/maxm_v1_release.zip) (157KB)
+[MaXM v1](https://storage.googleapis.com/maxm/maxm_v1_release.zip) (157KB, released on Feb 18, 2023)
 
 
 **Format (.json)**

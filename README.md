@@ -40,16 +40,16 @@ annotations             List of image-question-answers triplets, each of which i
 
 If you use this dataset in your research, please cite the original Crossmodal-3600 dataset and our paper:
 
-Soravit Changpinyo, Linting Xue, Idan Szpektor, Ashish V. Thapliyal, Julien Amelot, Michal Yarom, Xi Chen, Radu Soricut.
+Soravit Changpinyo, Linting Xue, Michal Yarom, Ashish V. Thapliyal, Idan Szpektor, Julien Amelot, Xi Chen, Radu Soricut.
 [MaXM: Towards Multilingual Visual Question Answering](https://arxiv.org/abs/2209.05401).
-arXiv, 2022.
+Findings of the Association for Computational Linguistics: EMNLP, 2023.
 
 <div class="highlight highlight-source-shell"><pre>
-@article{changpinyo2022maxm,
+@inproceedings{changpinyo2023maxm,
   title = {{MaXM}: Towards Multilingual Visual Question Answering},
-  author = {Changpinyo, Soravit and Xue, Linting and Szpektor, Idan and Thapliyal, Ashish V. and Amelot, Julien and Yarom, Michal and Chen, Xi and Soricut, Radu},
-  journal={arXiv preprint arXiv:2209.05401},
-  year = {2022},
+  author = {Changpinyo, Soravit and Xue, Linting and Yarom, Michal and Thapliyal, Ashish V. and Szpektor, Idan and Amelot, Julien and Chen, Xi and Soricut, Radu},
+  booktitle={Findings of the Association for Computational Linguistics: EMNLP},
+  year = {2023},
 }
 </pre></div>
 
